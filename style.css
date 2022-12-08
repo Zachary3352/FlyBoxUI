@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Whitney SSm A;
+    src: url("whitneymedium.otf") format("opentype");
+}
+
 html {
   font-family: "Merriweather";
 }
