@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FlyBoxUI/static/css/main.cee66f3c.css",
-    "main.js": "/FlyBoxUI/static/js/main.bc35307d.js",
+    "main.js": "/FlyBoxUI/static/js/main.8378c900.js",
     "static/js/787.28cb0dcd.chunk.js": "/FlyBoxUI/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/FlyBoxUI/index.html",
     "main.cee66f3c.css.map": "/FlyBoxUI/static/css/main.cee66f3c.css.map",
-    "main.bc35307d.js.map": "/FlyBoxUI/static/js/main.bc35307d.js.map",
+    "main.8378c900.js.map": "/FlyBoxUI/static/js/main.8378c900.js.map",
     "787.28cb0dcd.chunk.js.map": "/FlyBoxUI/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cee66f3c.css",
-    "static/js/main.bc35307d.js"
+    "static/js/main.8378c900.js"
   ]
 }
